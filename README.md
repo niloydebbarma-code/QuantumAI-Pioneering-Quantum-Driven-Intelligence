@@ -6,7 +6,7 @@ Welcome to QuantumAI, a groundbreaking project aimed at leveraging the power of 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](https://github.com/niloydebbarma-code/QuantumAI-Pioneering-Quantum-Driven-Intelligence/blob/main/docs%2Fusage.md)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,4 +25,27 @@ To install QuantumAI, clone the repository and install the required dependencies
 git clone https://github.com/niloydebbarma-code/QuantumAI.git
 cd QuantumAI
 pip install -r requirements.txt
+
+# Usage
+
+This document provides detailed instructions on how to use the QuantumAI library.
+
+## Quantum Computing Example
+
+```python
+from quantumai.quantum_computing import QuantumAlgorithm
+
+# Initialize and run a quantum algorithm
+quantum_algo = QuantumAlgorithm()
+result = quantum_algo.run()
+print(result)
+
+## Hybrid System Example
+
+from quantumai.hybrid_system import HybridSystem
+
+# Initialize and run a hybrid system
+hybrid_system = HybridSystem()
+result = hybrid_system.execute()
+print(result)
 
