@@ -26,6 +26,7 @@ git clone https://github.com/niloydebbarma-code/QuantumAI.git
 cd QuantumAI
 pip install -r requirements.txt
 
+```
 
 ## Usage
 
