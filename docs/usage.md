@@ -11,3 +11,12 @@ from quantumai.quantum_computing import QuantumAlgorithm
 quantum_algo = QuantumAlgorithm()
 result = quantum_algo.run()
 print(result)
+
+## Hybrid System Example
+
+from quantumai.hybrid_system import HybridSystem
+
+# Initialize and run a hybrid system
+hybrid_system = HybridSystem()
+result = hybrid_system.execute()
+print(result)
