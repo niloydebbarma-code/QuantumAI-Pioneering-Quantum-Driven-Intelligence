@@ -25,3 +25,19 @@ To install QuantumAI, clone the repository and install the required dependencies
 git clone https://github.com/niloydebbarma-code/QuantumAI.git
 cd QuantumAI
 pip install -r requirements.txt
+
+## Usage
+
+**Quantum Computing Example**
+
+from quantumai.quantum_computing import QuantumAlgorithm
+
+# Initialize and run a quantum algorithm
+quantum_algo = QuantumAlgorithm()
+result = quantum_algo.run()
+print(result)Hybrid System Examplefrom quantumai.hybrid_system import HybridSystem
+
+# Initialize and run a hybrid system
+hybrid_system = HybridSystem()
+result = hybrid_system.execute()
+print(result)
