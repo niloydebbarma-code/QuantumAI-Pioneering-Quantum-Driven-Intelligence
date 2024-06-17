@@ -21,12 +21,18 @@ QuantumAI aims to integrate quantum computing paradigms with traditional AI meth
 ## Installation
 To install QuantumAI, clone the repository and install the required dependencies.
 
-```bash
-git clone https://github.com/niloydebbarma-code/QuantumAI.git
-cd QuantumAI
-pip install -r requirements.txt
-
-```
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/niloydebbarma-code/QuantumAI.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd QuantumAI
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
