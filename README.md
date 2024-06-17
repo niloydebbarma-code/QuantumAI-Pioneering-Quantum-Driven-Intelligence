@@ -26,7 +26,8 @@ git clone https://github.com/niloydebbarma-code/QuantumAI.git
 cd QuantumAI
 pip install -r requirements.txt
 
-# Usage
+
+## Usage
 
 This document provides detailed instructions on how to use the QuantumAI library.
 
