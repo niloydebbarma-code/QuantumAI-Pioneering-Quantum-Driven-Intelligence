@@ -58,9 +58,8 @@ print(result)
 
 ```
 
-### docs/contributing.md
-```markdown
-# Contributing
+
+## Contributing
 
 We are excited to have you contribute to QuantumAI! Here are some guidelines to help you get started:
 
