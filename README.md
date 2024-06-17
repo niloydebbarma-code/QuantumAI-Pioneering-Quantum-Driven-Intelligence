@@ -42,6 +42,9 @@ quantum_algo = QuantumAlgorithm()
 result = quantum_algo.run()
 print(result)
 
+
+```
+
 ## Hybrid System Example
 
 from quantumai.hybrid_system import HybridSystem
