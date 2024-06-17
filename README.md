@@ -1,5 +1,7 @@
 # QuantumAI: Pioneering Quantum-Driven Intelligence
 
+![QuantumAI: Pioneering Quantum-Driven Intelligence]("QuantumAI Pioneering Quantum-Driven Intelligence_20240617_163355_0000.png")
+
 Welcome to QuantumAI, a groundbreaking project aimed at leveraging the power of quantum computing to enhance artificial intelligence algorithms. This repository contains the core libraries, documentation, and examples needed to get started with quantum-driven intelligence.
 
 ## Table of Contents
